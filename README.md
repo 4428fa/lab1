@@ -1,6 +1,9 @@
 # Lab1 Project
 This project is aimed at learning how to use GitHub and manage repositories and code of loops.
 
+## Contributors
+- Fatima Abdullah
+
 ## Content
 - Sample files
 - Code snippets
